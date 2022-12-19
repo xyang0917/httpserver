@@ -3,12 +3,12 @@ entries:
   httpserver:
   - apiVersion: v2
     appVersion: 0.0.3
-    created: "2022-12-19T21:26:01.850554+08:00"
+    created: "2022-12-19T21:30:23.009879+08:00"
     description: A Helm chart for Kubernetes
-    digest: b594c7ebee6a30c58727a06147d0aca6def90284371abb8d4d00d51cf284f218
+    digest: 38f25fa01778558948555904fe7a230b8c77068640ad6960bdab6ddf7f7127a2
     name: httpserver
     type: application
     urls:
     - https://xyang0917.github.io/httpserver/deploy/helm/repo/stable/httpserver-0.1.0.tgz/httpserver-0.1.0.tgz
     version: 0.1.0
-generated: "2022-12-19T21:26:01.849948+08:00"
+generated: "2022-12-19T21:30:23.009318+08:00"
