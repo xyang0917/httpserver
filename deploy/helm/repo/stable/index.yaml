@@ -9,6 +9,6 @@ entries:
     name: httpserver
     type: application
     urls:
-    - https://xyang0917.github.io/httpserver/deploy/helm/repo/stable/httpserver-0.1.0.tgz/httpserver-0.1.0.tgz
+    - https://xyang0917.github.io/httpserver/deploy/helm/repo/stable/httpserver-0.1.0.tgz
     version: 0.1.0
 generated: "2022-12-19T21:30:23.009318+08:00"
