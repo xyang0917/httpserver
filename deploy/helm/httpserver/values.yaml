@@ -10,7 +10,8 @@ image:
   # Overrides the image tag whose default is the chart appVersion.
   tag: "0.0.3"
 
-imagePullSecrets: []
+imagePullSecrets: 
+  - aliyun-acs
 nameOverride: "httpserver"
 fullnameOverride: "httpserver"
 
