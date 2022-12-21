@@ -1,0 +1,29 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+apiVersion: v2
+appVersion: 0.0.3
+description: A Helm chart for Kubernetes
+name: httpserver
+type: application
+version: 0.1.0
+
+...
+files:
+  httpserver-0.1.0.tgz: sha256:383d817453e46fcbd18e8cfbee61e91f265d84be03b535b68e950a66ce204684
+-----BEGIN PGP SIGNATURE-----
+
+wsFcBAEBCgAQBQJjoxfdCRAH0WI/2XjEDwAAjDIQAGZzrt20NlRstasBHJeFyx3P
+/ZbK/9G+1aLN2U0jmkJmOdyf3VDpBc0aHN6AR9/QrZhGVBzC8HOT28cO3fQ5E1D0
+PWxaPF4WkZZ/vTWUUbo//A1rri+Y7xu9/nVjWk72JrSkyoadF/DfdP6xTN4Pn6Gg
+yHbbgrVOMhbHOuMOInWKRdulGjy/7NfNWxYZXr0RT0H2HT4woCkQyEoZZ5HzkBfq
+4JuKc0cFh0IVnyxHA2QJ8VcAswPfkTiako408aH2/WWGugjfbkXqG53MLBovffSV
+a083K1IAzvyEA/yyXKjTmViEex1IS0V/8HyFGPEFwETapYxoKMhU0RxPnPYUsRQf
+RlMtaEQXB8C+dzVFj81P9xKxQ87dVlR+lNL8f/XjS1HX/5HAVBvZKkLhfCHT3Tw+
+0pVvF+gn9TmxUpwe6aofLpmmXmV3sYicIP+AHMkKjbV0kcbXr3/V1yAzUmBQkops
+mR3UCY3CQIS7BYB13XpWtUCtKGadiIUnx/5sRRFjUiDIX9oWAsnxyG+E60VWjCuK
+yknBdqqxAkgCQCQHa9LQCZCGSlwo5QQ3TZqIqDBeiJ78cBGF3RY91E8VAumZVtmA
+SWawNxucevXGowgMnQjRu+1vtLQ2K1lCNFLrbQ33g7Evt1/qluwbft3B/HFyYlZV
+37GeNL+u6SvgYTSgLysq
+=AFzX
+-----END PGP SIGNATURE-----
